@@ -1,8 +1,0 @@
-[debug] ----------------------------------------------------------------------
-[debug] Command:      c:\Program Files\nodejs\node.exe c:\Users\$ubhasis\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
-[debug] Platform:     win32
-[debug] Node Version: v4.2.2
-[debug] Time:         Tue Jan 12 2016 17:17:11 GMT-0800 (Pacific Standard Time)
-[debug] ----------------------------------------------------------------------
-[debug] 
-[debug] >>> HTTP REQUEST GET https://admin.firebase.com/firebase/todoFire/token?token=XXX 
