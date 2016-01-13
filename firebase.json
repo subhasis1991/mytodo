@@ -1,0 +1,13 @@
+{
+  "firebase": "todoFire",
+  "public": "dist",
+  "ignore": [
+    ".tmp",
+    "test",
+    "bower_component",
+    "app",
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
