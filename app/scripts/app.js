@@ -36,6 +36,16 @@ angular
         controller: 'ScratchpadCtrl',
         controllerAs: 'scratchpad'
       })
+      .when('/todo', { //some testing app
+        templateUrl: 'views/todo.html',
+        controller: 'TodoCtrl',
+        controllerAs: 'todo'
+      })
+      .when('/card', { //some testing app
+        templateUrl: 'views/card.html',
+        controller: 'CardCtrl',
+        controllerAs: 'card'
+      })
       .otherwise({
         redirectTo: '/'
       });
